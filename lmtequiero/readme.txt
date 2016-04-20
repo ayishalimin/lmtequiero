@@ -1,2 +1,0 @@
-2016-04-19 创建自己的git仓库 并lmtequiero
-come on!
